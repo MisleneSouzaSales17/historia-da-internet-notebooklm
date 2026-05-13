@@ -1,12 +1,8 @@
-📅 Cronograma de Estudos – História da Internet e Evolução da Internet (7 Semanas)
+## Cronograma de Estudos História da Internet e Evolução da Internet 7 Semanas
 
 Este cronograma foi desenvolvido para fornecer uma compreensão profunda e estruturada da evolução da rede mundial de computadores. Como Especialista em História da Tecnologia, guiarei você desde os marcos da Guerra Fria até os dilemas éticos da Web 3.0, utilizando uma abordagem pedagógica que conecta fatos históricos às transformações sociais.
 
-
---------------------------------------------------------------------------------
-
-
-1. Introdução e Visão Geral do Curso
+1.Introdução e Visão Geral do Curso
 
 A Internet contemporânea pode ser compreendida através do conceito de "Segundo Dilúvio", proposto por Pierre Lévy. Diferente do dilúvio bíblico, este fenômeno não é uma punição, mas uma nova condição humana: um oceano inevitável de informações (dados, imagens, músicas) que exige novas habilidades de navegação.
 
@@ -14,11 +10,7 @@ A Internet contemporânea pode ser compreendida através do conceito de "Segundo
 
 Etimologicamente, o termo "Internet" é a abreviatura de INTERaction or INTERconnection between computer NETworks. Tecnicamente, ela é a "rede das redes". Fisicamente, equivale a uma "superestrada da informação", termo cunhado em 1978 pelo então senador Al Gore (Senior), em alusão às rodovias (highways) construídas nos EUA durante a gestão Eisenhower.
 
-
---------------------------------------------------------------------------------
-
-
-2. Semana 1: O Berço Militar e Acadêmico (Anos 50 e 60)
+2.Semana 1: O Berço Militar e Acadêmico (Anos 50 e 60)
 
 O Contexto da Humilhação Tecnológica
 
@@ -32,11 +24,7 @@ A Arquitetura da Sobrevivência
 * Atividade Prática: Desenhe um diagrama comparando uma rede centralizada (como a telefonia antiga) e a rede descentralizada (o "ninho de serpente") da ARPANET.
 * Reflexão: Explique como a descentralização da ARPANET diferenciava a rede dos sistemas de comunicação centralizados da época.
 
-
---------------------------------------------------------------------------------
-
-
-3. Semana 2: Protocolos e o Nascimento da Comunicação Pessoal (Anos 70)
+3.Semana 2: Protocolos e o Nascimento da Comunicação Pessoal (Anos 70)
 
 A Padronização e o Crescimento
 
@@ -49,11 +37,9 @@ O Início da Interação Humana
 * Atividade Prática: Identifique a estrutura de um endereço IP clássico (4 campos decimais de 0 a 255) e explique a função do TCP na "montagem dos cartões postais".
 * Reflexão: Descreva a função do protocolo TCP/IP e por que a separação ocorrida em 1978 foi vital para a Internet global.
 
-
 --------------------------------------------------------------------------------
 
-
-4. Semana 3: A Revolução da World Wide Web (Anos 80 e 90)
+1. Semana 3: A Revolução da World Wide Web (Anos 80 e 90)
 
 Tim Berners-Lee e a Teia Global
 
@@ -72,11 +58,9 @@ Existem duas eras na Internet: antes e depois do Mosaic. Lançado em 1993, este 
 * Atividade Prática: Acesse o site info.cern.ch e identifique como os pilares (HTML e URL) eram aplicados na sua forma mais primitiva.
 * Reflexão: Quais são as diferenças fundamentais entre HTML, HTTP e URL e como esses elementos compõem a navegação na Web?
 
-
 --------------------------------------------------------------------------------
 
-
-5. Semana 4: Abertura Comercial e a Guerra dos Navegadores (1994 - 2001)
+1. Semana 4: Abertura Comercial e a Guerra dos Navegadores (1994 - 2001)
 
 A Explosão e o Marketing Político
 
@@ -97,11 +81,9 @@ A disputa entre Netscape Navigator e Microsoft Internet Explorer definiu o merca
 * Atividade Prática: Analise a tabela acima e identifique o erro comum na estratégia "Get Big Fast" aplicada por essas empresas.
 * Reflexão: Analise os fatores que levaram ao estouro da Bolha no ano 2000 e como a integração do IE ao Windows afetou a Netscape.
 
-
 --------------------------------------------------------------------------------
 
-
-6. Semana 5: Web 2.0 e a Sociedade em Rede (Anos 2000)
+1. Semana 5: Web 2.0 e a Sociedade em Rede (Anos 2000)
 
 Da Biblioteca ao Café
 
@@ -117,11 +99,9 @@ Surgem a Wikipédia, blogs e redes sociais. No Brasil, o Orkut foi o primeiro gr
 * Atividade Prática: Liste três diferenças entre um site da Web 1.0 (ex: GeoCities) e uma plataforma Web 2.0 (ex: Wikipédia) em termos de participação.
 * Reflexão: Compare as características da Web 1.0 (estática) com a Web 2.0 (colaborativa) usando a metáfora "Biblioteca vs. Café".
 
-
 --------------------------------------------------------------------------------
 
-
-7. Semana 6: Mobilidade, Nuvem e Ubiquidade (2007 - Atualidade)
+1. Semana 6: Mobilidade, Nuvem e Ubiquidade (2007 - Atualidade)
 
 A Revolução Mobile e Cloud
 
@@ -134,11 +114,9 @@ A rede acadêmica brasileira (RNP) teve como catalisador a conferência Rio-92, 
 * Atividade Prática: Faça um inventário de quantos objetos em sua casa já poderiam estar conectados via IoT.
 * Reflexão: Como o iPhone e a computação em nuvem transformaram a forma como acessamos e armazenamos informações no cotidiano?
 
-
 --------------------------------------------------------------------------------
 
-
-8. Semana 7: Tendências Futuras e Desafios (Web 3.0 e Além)
+1. Semana 7: Tendências Futuras e Desafios (Web 3.0 e Além)
 
 Web Semântica e Inteligência Artificial
 
@@ -151,11 +129,9 @@ Os desafios modernos incluem o combate às fake news (PL 2630/20) e a proteção
 * Atividade Prática: Pesquise sobre o projeto "Solid" e debata como ele propõe solucionar os problemas de privacidade da Web 2.0.
 * Reflexão: Quais são os principais desafios da Web 3.0 em relação à privacidade de dados e ao uso de Inteligência Artificial?
 
-
 --------------------------------------------------------------------------------
 
-
-9. Glossário e Linha do Tempo de Apoio
+1. Glossário e Linha do Tempo de Apoio
 
 Glossário de Termos-Chave
 

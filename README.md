@@ -1,8 +1,10 @@
 # 🌐 Miniguia de Estudos: História da Internet
 
 ## 🎯 Contexto e Objetivos
+
 Este repositório foi criado como parte do desafio da DIO para explorar o uso da Inteligência Artificial como ferramenta de aprendizagem ativa.  
 O tema escolhido é **História da Internet**, com o objetivo de:  
+
 - Entender os principais marcos históricos da criação e evolução da Internet.  
 - Explorar como a rede mundial de computadores transformou a sociedade, a economia e a cultura.  
 - Criar um material de estudo consolidado e reutilizável para futuras revisões.  
@@ -10,7 +12,9 @@ O tema escolhido é **História da Internet**, com o objetivo de:
 ---
 
 ## 📚 Curadoria de Fontes
+
 As fontes selecionadas para estudo no NotebookLM foram:  
+
 1. [Internet Society – História da Internet](https://www.internetsociety.org/internet/history/)  
 2. [W3C – A World Wide Web Timeline](https://www.w3.org/History.html)  
 3. [RFC 1 – Host Software (1969)](https://www.rfc-editor.org/rfc/rfc1)  
@@ -75,4 +79,8 @@ As fontes selecionadas para estudo no NotebookLM foram:
 
 ![Mapa Mental - História da Internet](./Copilot_20260513_112521.png)
 
----# historia-da-internet-notebooklm
+## 📊 Infográfico - A Odisseia Digital
+
+![Odisseia Digital - Do Código Secreto ao Ciberespaço](./Historia-da-Internet-Infografico.png)
+
+---
